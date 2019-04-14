@@ -10,3 +10,9 @@ This dataset contains data from 1950 all the way through the 2018 season, and co
 
 # Outcomes
 As the project proceeds, this page will be updated. The repository contain the original data download and additional folders include various stages of the Data Mining process as utilized with this data set.
+
+# Exploratory Data Analysis
+The exploratory data analysis Jupyter notebook can be see under the "Reports and Reading" folder or at: https://github.com/dvermagithub/GottaGoFast/blob/master/Reports%20and%20Reading/F1%20Exploratory%20Analysis%20Full%20Data.ipynb
+
+# Midway Progress Report
+The midway progress report is located at under the "Report and Reading" folder or at: https://github.com/dvermagithub/GottaGoFast/blob/master/Reports%20and%20Reading/Midway_Report_GottaGoFast-41409.docx
