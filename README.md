@@ -16,3 +16,12 @@ The exploratory data analysis Jupyter notebook can be see under the "Reports and
 
 # Midway Progress Report
 The midway progress report is located at under the "Report and Reading" folder or at: https://github.com/dvermagithub/GottaGoFast/blob/master/Reports%20and%20Reading/Midway_Report_GottaGoFast-41409.docx
+
+# Classification and Clustering Analysis
+Classfication Analayis which included Linear Regression, Decision Tree - Entroty, Decision Tree - Gini, Naive Bayes, MLP and KNN was performed on the data. Additionally Clustering analysis was also performed. The results are located as follows:
+Classification using various algorithms (Deepak) - https://github.com/dvermagithub/GottaGoFast/blob/master/04-%20Clustering%20and%20Classification%20Analysis/F1%20-%20Supervised%20Learning.ipynb
+KNN Classification (Lezeh) - https://github.com/dvermagithub/GottaGoFast/blob/master/04-%20Clustering%20and%20Classification%20Analysis/KNN%20Classification%20Model%20with%20results_full.ipynb
+Clustering  (Zack) - https://github.com/dvermagithub/GottaGoFast/blob/master/04-%20Clustering%20and%20Classification%20Analysis/F1%20Clustering%20Analysis%20with%20results_full_4v3.ipynb
+
+# Final Presentation & Report
+The final presentation that outlines the obversation and conclusion is included in the folder named '05- Final Presentation and Report" along with the final project report.
