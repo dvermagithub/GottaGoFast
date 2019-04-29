@@ -1,4 +1,4 @@
-# GottaGoFast
+# Project: GottaGoFast
 This is the project webpage for MSCS 5610 Data Mining (Spring 2019) Team GottaGoFast.
 
 # Context & Acknowledgement
